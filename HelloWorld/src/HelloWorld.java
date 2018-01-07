@@ -1,3 +1,5 @@
+package kong;
+
 /**
  * Created by 尚振鸿 on 2018/1/4. 22:28
  * mail:szh@codekong.cn
